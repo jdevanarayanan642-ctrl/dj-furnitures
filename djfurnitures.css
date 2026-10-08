@@ -384,8 +384,6 @@ footer{
 
 
 
-
-
             /* Custom Request */
 
 
@@ -543,7 +541,7 @@ form a:hover{
         background-position: center;
         background-repeat: no-repeat;
 
-        height: 87vh;
+        height: 85vh;
     }
 
     .hero-cust-page h1{
@@ -557,6 +555,6 @@ form a:hover{
     }
   
 
-    
+   
 
 }
