@@ -1,6 +1,15 @@
+<img width="1917" height="1028" alt="image" src="https://github.com/user-attachments/assets/0b271542-13c5-4c8f-9fa0-6a2fd7dc6627" />
+
+<img width="1901" height="972" alt="image" src="https://github.com/user-attachments/assets/2bfa329a-3977-4ba1-95f3-e1174c73f84e" />
+
+
 # DJ Furnitures 🪑
 
 A furniture website showcasing furniture collections, product galleries, and custom furniture request options with a clean, responsive, and user-friendly design.
+
+🌐 Live Website
+
+[Visit DJ Furnitures](https://jdevanarayanan642-ctrl.github.io/dj-furnitures/)
 
 ## ✨ Features
 
@@ -25,11 +34,11 @@ DJ-Furnitures/
 ├── about.html
 ├── ourworks.html
 ├── gallery.html
-├── custom-request.html
+├── customrequest.html
 ├── css/
 │   └── djfurnitures.css
 └── images/
-    ├── logo.jpg
+    ├── Logo.jpg
     ├── homehero.jpg
     └── ...
 ```
